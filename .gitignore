@@ -1,4 +1,5 @@
 venv
+env
 londonrelocation.json
 .idea
 __pycache__/
